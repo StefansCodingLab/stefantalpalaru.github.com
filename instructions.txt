@@ -1,8 +1,0 @@
-yes,
-
-i want whenever you click on experience, projects, skills and recommendations tab, replace the "welcome to my web page text with the list:
-
-for example, whenever you click on experience, the slideshow should show the text design engineer at nVent hoffman. as you press on the left or right arrows, it should switch to cad design/ drafter, intern at drexlmaier and so on
-
-
-please do this for all experience, projects, skills and recommendations
